@@ -1,0 +1,10 @@
+ONE LOOP/ 10% in NanoSeconds: 472387800 : THREE LOOP / 10% in NanoSeconds: 450580600
+ONE LOOP /20% in NanoSeconds: 814461400 : THREE LOOP / 20% in NanoSeconds: 785015900
+ONE LOOP /30% in NanoSeconds: 1129001500 : THREE LOOP / 30% in NanoSeconds: 1070888300
+ONE LOOP /40% in NanoSeconds: 1530681800 : THREE LOOP / 40% in NanoSeconds: 1485194300
+ONE LOOP/ 50% in NanoSeconds: 1805345600 : THREE LOOP / 50% in NanoSeconds: 1677988800
+ONE LOOP /60% in NanoSeconds: 2090294900 : THREE LOOP / 60% in NanoSeconds: 2002054500
+ONE LOOP /70% in NanoSeconds: 2486982900 : THREE LOOP / 70% in NanoSeconds: 2327579600
+ONE LOOP /80% in NanoSeconds: 2655855500 : THREE LOOP / 80% in NanoSeconds: 2596359800
+ONE LOOP/ 90% in NanoSeconds: 3424954800 : THREE LOOP / 90% in NanoSeconds: 2901430600
+ONE LOOP /100% in NanoSeconds: 3484929100 : THREE LOOP / 100% in NanoSeconds: 3206549800
